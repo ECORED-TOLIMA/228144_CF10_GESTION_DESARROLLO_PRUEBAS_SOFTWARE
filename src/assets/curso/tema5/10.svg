@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="431" viewBox="0 0 1020 431">
+  <g id="Grupo_1212623" data-name="Grupo 1212623" transform="translate(-290 -3327)">
+    <rect id="Rectángulo_465614" data-name="Rectángulo 465614" width="1020" height="431" rx="14" transform="translate(290 3327)" fill="#dfefff"/>
+    <path id="Trazado_1284872" data-name="Trazado 1284872" d="M28.652,0H0V596H31.85" transform="translate(1056.5 3465.417) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <g id="Grupo_1212616" data-name="Grupo 1212616" transform="translate(-159 1)">
+      <rect id="Rectángulo_460672" data-name="Rectángulo 460672" width="316" height="31" rx="15.5" transform="translate(763 3362)" fill="#19538d"/>
+      <text id="Medidas_de_cobertura_de_pruebas" data-name="Medidas de cobertura de pruebas" transform="translate(788 3366)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="32.876" y="18">Medidas de cobertura de </tspan></text>
+    </g>
+    <g id="Grupo_1212617" data-name="Grupo 1212617" transform="translate(-127 53)">
+      <rect id="Rectángulo_460672-2" data-name="Rectángulo 460672" width="252" height="31" rx="15.5" transform="translate(763 3362)" fill="#f6f168"/>
+      <text id="Cobertura_de_pruebas" data-name="Cobertura de pruebas" transform="translate(806 3366)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="30.691" y="18">Cobertura de </tspan></text>
+    </g>
+    <g id="Grupo_1212619" data-name="Grupo 1212619" transform="translate(0 -10)">
+      <rect id="Rectángulo_460672-3" data-name="Rectángulo 460672" width="261" height="31" rx="15.5" transform="translate(330 3494)" fill="#ffc772"/>
+      <text id="Código_cobertura" data-name="Código cobertura" transform="translate(373 3498)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="17.643" y="18">Código cobertura</tspan></text>
+      <path id="Trazado_1284673" data-name="Trazado 1284673" d="M0,0V21.7" transform="translate(332.301 3578.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+      <path id="Trazado_1284876" data-name="Trazado 1284876" d="M0,0V21.7" transform="translate(332.301 3624.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+      <path id="Trazado_1284877" data-name="Trazado 1284877" d="M0,0V21.7" transform="translate(332.301 3670.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+      <path id="Trazado_1284874" data-name="Trazado 1284874" d="M5,2V131l173.85-1V118.988" transform="translate(463.301 3538) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+      <path id="Trazado_1284875" data-name="Trazado 1284875" d="M0,0V19.476" transform="translate(460.5 3544.476) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+      <rect id="Rectángulo_460672-4" data-name="Rectángulo 460672" width="248" height="31" rx="15.5" transform="translate(343 3563)" fill="#ffd470"/>
+      <rect id="Rectángulo_466967" data-name="Rectángulo 466967" width="248" height="31" rx="15.5" transform="translate(343 3655)" fill="#ffd470"/>
+      <rect id="Rectángulo_466968" data-name="Rectángulo 466968" width="248" height="31" rx="15.5" transform="translate(343 3701)" fill="#ffd470"/>
+      <rect id="Rectángulo_466966" data-name="Rectángulo 466966" width="248" height="31" rx="15.5" transform="translate(343 3609)" fill="#ffd470"/>
+      <text id="Cobertura_de_métodos" data-name="Cobertura de métodos" transform="translate(362 3567)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de métodos</tspan></text>
+      <text id="Cobertura_de_sucursales" data-name="Cobertura de sucursales" transform="translate(362 3659)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de sucursales</tspan></text>
+      <text id="Cobertura_de_ruta" data-name="Cobertura de ruta" transform="translate(362 3705)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de ruta</tspan></text>
+      <text id="Cobertura_de_la_declaración" data-name="Cobertura de la declaración" transform="translate(362 3613)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de la </tspan></text>
+    </g>
+    <path id="Trazado_1284878" data-name="Trazado 1284878" d="M0,0V21.7" transform="translate(639 3568.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284879" data-name="Trazado 1284879" d="M0,0V21.7" transform="translate(639 3614.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284881" data-name="Trazado 1284881" d="M0,0V21.7" transform="translate(639 3660.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284880" data-name="Trazado 1284880" d="M5,7V131l173.85-1V118.988" transform="translate(770 3528) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284882" data-name="Trazado 1284882" d="M0,0V88.476" transform="translate(761.5 3534.476) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_466972" data-name="Rectángulo 466972" width="237" height="31" rx="15.5" transform="translate(650 3553)" fill="#dda2ff"/>
+    <rect id="Rectángulo_466970" data-name="Rectángulo 466970" width="237" height="31" rx="15.5" transform="translate(650 3645)" fill="#dda2ff"/>
+    <rect id="Rectángulo_466969" data-name="Rectángulo 466969" width="237" height="31" rx="15.5" transform="translate(650 3691)" fill="#dda2ff"/>
+    <rect id="Rectángulo_466971" data-name="Rectángulo 466971" width="237" height="31" rx="15.5" transform="translate(650 3599)" fill="#dda2ff"/>
+    <text id="Cobertura_de_objetos" data-name="Cobertura de objetos" transform="translate(669 3557)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de objetos</tspan></text>
+    <text id="Cobertura_de_valor" data-name="Cobertura de valor" transform="translate(669 3649)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de valor</tspan></text>
+    <text id="Cobertura_estatal" data-name="Cobertura estatal" transform="translate(669 3695)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura estatal</tspan></text>
+    <text id="Cobertura_de_atributos" data-name="Cobertura de atributos" transform="translate(669 3603)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de atributos</tspan></text>
+    <rect id="Rectángulo_460672-5" data-name="Rectángulo 460672" width="252" height="31" rx="15.5" transform="translate(930 3484)" fill="#7dbfff"/>
+    <text id="Funcional_cobertura" data-name="Funcional cobertura" transform="translate(973 3488)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="3.248" y="18">Funcional cobertura</tspan></text>
+    <path id="Trazado_1284886" data-name="Trazado 1284886" d="M0,0V21.7" transform="translate(934 3568.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284885" data-name="Trazado 1284885" d="M0,0V21.7" transform="translate(934 3614.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284884" data-name="Trazado 1284884" d="M0,0V21.7" transform="translate(934 3660.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284883" data-name="Trazado 1284883" d="M5,7V131l173.85-1V118.988" transform="translate(1065 3528) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284887" data-name="Trazado 1284887" d="M0,0V19.476" transform="translate(1056.5 3534.476) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_466976" data-name="Rectángulo 466976" width="325" height="31" rx="15.5" transform="translate(945 3553)" fill="#9ecfff"/>
+    <rect id="Rectángulo_466974" data-name="Rectángulo 466974" width="325" height="31" rx="15.5" transform="translate(945 3645)" fill="#9ecfff"/>
+    <rect id="Rectángulo_466973" data-name="Rectángulo 466973" width="325" height="31" rx="15.5" transform="translate(945 3691)" fill="#9ecfff"/>
+    <rect id="Rectángulo_466975" data-name="Rectángulo 466975" width="325" height="31" rx="15.5" transform="translate(945 3599)" fill="#9ecfff"/>
+    <text id="Cobertura_de_funciones" data-name="Cobertura de funciones" transform="translate(964 3557)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de funciones</tspan></text>
+    <text id="Cobertura_de_la_cadena_de_funciones" data-name="Cobertura de la cadena de funciones" transform="translate(964 3649)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de la cadena de </tspan></text>
+    <text id="Cobertura_del_estado_de_la_función" data-name="Cobertura del estado de la función" transform="translate(964 3695)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura del estado de la función</tspan></text>
+    <text id="Cobertura_de_resultados_de_función" data-name="Cobertura de resultados de función" transform="translate(964 3603)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Cobertura de resultados de función</tspan></text>
+    <rect id="Rectángulo_460672-6" data-name="Rectángulo 460672" width="252" height="31" rx="15.5" transform="translate(635 3484)" fill="#cf9eff"/>
+    <text id="Datos_cobertura" data-name="Datos cobertura" transform="translate(678 3488)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="18.725" y="18">Datos cobertura</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1020" height="348" viewBox="0 0 1020 348">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_466775" data-name="Rectángulo 466775" width="275.055" height="274.413" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_466774" data-name="Rectángulo 466774" width="275.054" height="274.414" fill="#cf9eff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_466771" data-name="Rectángulo 466771" width="81.922" height="124.983" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_466772" data-name="Rectángulo 466772" width="148.733" height="80.093" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_466773" data-name="Rectángulo 466773" width="81.918" height="124.983" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1212512" data-name="Grupo 1212512" transform="translate(-290 -12421)">
+    <rect id="Rectángulo_465614" data-name="Rectángulo 465614" width="1020" height="348" rx="14" transform="translate(290 12421)" fill="#dfefff"/>
+    <g id="Grupo_1212511" data-name="Grupo 1212511">
+      <g id="Grupo_1212508" data-name="Grupo 1212508" transform="translate(0 -3.703)">
+        <g id="Grupo_1212507" data-name="Grupo 1212507" transform="translate(374 12461.702)">
+          <g id="Grupo_1212506" data-name="Grupo 1212506" clip-path="url(#clip-path)">
+            <g id="Grupo_1212505" data-name="Grupo 1212505" transform="translate(0 -0.001)">
+              <g id="Grupo_1212504" data-name="Grupo 1212504" clip-path="url(#clip-path-2)">
+                <path id="Trazado_1284779" data-name="Trazado 1284779" d="M130.684,6.225V129.137a6.223,6.223,0,0,1-3.236,5.458L56.58,173.363,19.592,193.6a6.227,6.227,0,0,1-8.726-3.053A137.611,137.611,0,0,1,123.852.028a6.225,6.225,0,0,1,6.832,6.2" transform="translate(0 0.003)" fill="#bf5aa2"/>
+                <path id="Trazado_1284780" data-name="Trazado 1284780" d="M335.035,747.581a137.544,137.544,0,0,1-226.944,0,6.231,6.231,0,0,1,2.127-9l36.979-20.23L218.58,679.3a6.217,6.217,0,0,1,5.969,0l71.38,39.047,36.979,20.23a6.231,6.231,0,0,1,2.127,9" transform="translate(-84.035 -532.978)" fill="#7db25d"/>
+                <path id="Trazado_1284781" data-name="Trazado 1284781" d="M803.7,136.882a137.063,137.063,0,0,1-10.866,53.664,6.227,6.227,0,0,1-8.726,3.053L747.12,173.363,676.256,134.6a6.224,6.224,0,0,1-3.236-5.458V6.225a6.225,6.225,0,0,1,6.832-6.2A137.541,137.541,0,0,1,803.7,136.882" transform="translate(-528.645 0.003)" fill="#ff7351"/>
+                <g id="Grupo_1212497" data-name="Grupo 1212497" transform="translate(48.762 48.383)" opacity="0.1">
+                  <g id="Grupo_1212496" data-name="Grupo 1212496">
+                    <g id="Grupo_1212495" data-name="Grupo 1212495" clip-path="url(#clip-path-3)">
+                      <path id="Trazado_1284782" data-name="Trazado 1284782" d="M306,311.752,235.129,350.52a88.817,88.817,0,0,1,74.1-124.984v80.758A6.223,6.223,0,0,1,306,311.752" transform="translate(-227.312 -225.537)"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Grupo_1212500" data-name="Grupo 1212500" transform="translate(63.161 145.559)" opacity="0.1">
+                  <g id="Grupo_1212499" data-name="Grupo 1212499">
+                    <g id="Grupo_1212498" data-name="Grupo 1212498" clip-path="url(#clip-path-4)">
+                      <path id="Trazado_1284783" data-name="Trazado 1284783" d="M371.784,679.3l71.38,39.046a88.785,88.785,0,0,1-148.733,0L365.815,679.3a6.217,6.217,0,0,1,5.969,0" transform="translate(-294.431 -678.537)"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Grupo_1212503" data-name="Grupo 1212503" transform="translate(144.375 48.383)" opacity="0.1">
+                  <g id="Grupo_1212502" data-name="Grupo 1212502">
+                    <g id="Grupo_1212501" data-name="Grupo 1212501" clip-path="url(#clip-path-5)">
+                      <path id="Trazado_1284784" data-name="Trazado 1284784" d="M754.937,314.038a88.479,88.479,0,0,1-7.817,36.482l-70.864-38.768a6.224,6.224,0,0,1-3.236-5.458V225.536a88.771,88.771,0,0,1,81.917,88.5" transform="translate(-673.02 -225.537)"/>
+                    </g>
+                  </g>
+                </g>
+                <path id="Trazado_1284785" data-name="Trazado 1284785" d="M434.189,353.459a77.738,77.738,0,1,1-77.738-77.738,77.738,77.738,0,0,1,77.738,77.738" transform="translate(-218.923 -216.573)" fill="#e6e6e6"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect id="Rectángulo_466717" data-name="Rectángulo 466717" width="273" height="44" transform="translate(953 12505)" fill="#bcddff"/>
+        <rect id="Rectángulo_466781" data-name="Rectángulo 466781" width="149" height="44" transform="translate(730 12505)" fill="#bcddff"/>
+        <rect id="Rectángulo_466777" data-name="Rectángulo 466777" width="273" height="44" transform="translate(953 12575)" fill="#bcddff"/>
+        <rect id="Rectángulo_466780" data-name="Rectángulo 466780" width="149" height="44" transform="translate(730 12575)" fill="#bcddff"/>
+        <rect id="Rectángulo_466778" data-name="Rectángulo 466778" width="273" height="44" transform="translate(953 12645)" fill="#bcddff"/>
+        <rect id="Rectángulo_466779" data-name="Rectángulo 466779" width="149" height="44" transform="translate(730 12645)" fill="#bcddff"/>
+        <text id="Escribir_un_test_que_falle" data-name="Escribir un test que falle" transform="translate(986.289 12515)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Escribir un test que falle</tspan></text>
+        <text id="ROJO" transform="translate(763.289 12515)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">ROJO</tspan></text>
+        <text id="TDD" transform="translate(492.243 12588.115)" fill="#12263f" font-size="17" font-family="SegoeUIBlack, Segoe UI"><tspan x="0.977" y="18">TDD</tspan></text>
+        <text id="Hacer_que_el_código_funcione" data-name="Hacer que el código funcione" transform="translate(986.289 12585)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Hacer que el código funcione</tspan></text>
+        <text id="VERDE" transform="translate(763.289 12585)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">VERDE</tspan></text>
+        <text id="Eliminar_la_redundancia" data-name="Eliminar la redundancia" transform="translate(986.289 12655)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Eliminar la redundancia</tspan></text>
+        <text id="REFACTOR" transform="translate(763.289 12655)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">REFACTOR</tspan></text>
+        <circle id="Elipse_13755" data-name="Elipse 13755" cx="19" cy="19" r="19" transform="translate(934 12508)" fill="#19538d"/>
+        <circle id="Elipse_13773" data-name="Elipse 13773" cx="19" cy="19" r="19" transform="translate(711 12508)" fill="#ff7351"/>
+        <circle id="Elipse_13767" data-name="Elipse 13767" cx="17" cy="17" r="17" transform="translate(564.796 12541.902)" fill="#19538d"/>
+        <circle id="Elipse_13770" data-name="Elipse 13770" cx="17" cy="17" r="17" transform="translate(424.796 12541.902)" fill="#19538d"/>
+        <circle id="Elipse_13769" data-name="Elipse 13769" cx="17" cy="17" r="17" transform="translate(494.796 12658.902)" fill="#19538d"/>
+        <circle id="Elipse_13765" data-name="Elipse 13765" cx="19" cy="19" r="19" transform="translate(934 12578)" fill="#19538d"/>
+        <circle id="Elipse_13771" data-name="Elipse 13771" cx="19" cy="19" r="19" transform="translate(711 12578)" fill="#7db25d"/>
+        <circle id="Elipse_13766" data-name="Elipse 13766" cx="19" cy="19" r="19" transform="translate(934 12648)" fill="#19538d"/>
+        <circle id="Elipse_13772" data-name="Elipse 13772" cx="19" cy="19" r="19" transform="translate(711 12648)" fill="#bf5aa2"/>
+        <text id="_1" data-name="1" transform="translate(945.5 12514)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">1</tspan></text>
+        <text id="_1-2" data-name="1" transform="translate(575.33 12547.669)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.813" y="18">1</tspan></text>
+        <text id="_3" data-name="3" transform="translate(435.031 12547.669)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.813" y="18">3</tspan></text>
+        <text id="_2" data-name="2" transform="translate(504.734 12663.841)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.813" y="18">2</tspan></text>
+        <text id="_2-2" data-name="2" transform="translate(945.5 12584)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">2</tspan></text>
+        <text id="_3-2" data-name="3" transform="translate(945.5 12654)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">3</tspan></text>
+        <path id="Trazado_1284786" data-name="Trazado 1284786" d="M0,0V55" transform="translate(879 12527) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+        <path id="Trazado_1284787" data-name="Trazado 1284787" d="M0,0V55" transform="translate(879 12597) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+        <path id="Trazado_1284788" data-name="Trazado 1284788" d="M0,0V55" transform="translate(879 12667) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>

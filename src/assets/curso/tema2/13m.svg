@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396" height="774" viewBox="0 0 396 774">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_466619" data-name="Rectángulo 466619" width="307.724" height="307.471" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_466620" data-name="Rectángulo 466620" width="137.941" height="80.756" fill="#19538d"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1212415" data-name="Grupo 1212415" transform="translate(-290 -5005)">
+    <rect id="Rectángulo_466630" data-name="Rectángulo 466630" width="396" height="774" rx="14" transform="translate(290 5005)" fill="#dfefff"/>
+    <g id="Grupo_1212411" data-name="Grupo 1212411" transform="translate(334.138 5088.528)">
+      <g id="Grupo_1212405" data-name="Grupo 1212405" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Trazado_1284714" data-name="Trazado 1284714" d="M561.642,93.1h-77.9a7.632,7.632,0,0,1-6.825-11.047L508.132,19.67l7.736-15.456a7.632,7.632,0,0,1,13.65,0l38.949,77.838A7.632,7.632,0,0,1,561.642,93.1" transform="translate(-368.829 0.002)" fill="#cf9eff"/>
+        <path id="Trazado_1284715" data-name="Trazado 1284715" d="M432.755,540.235H249.142a7.632,7.632,0,0,1-6.825-11.047l42.105-84.143a7.632,7.632,0,0,1,6.825-4.217h99.407a7.632,7.632,0,0,1,6.825,4.217l42.1,84.143a7.632,7.632,0,0,1-6.825,11.047" transform="translate(-187.087 -341.502)" fill="#9ecfff"/>
+        <path id="Trazado_1284716" data-name="Trazado 1284716" d="M300.081,1012.155H7.641a7.632,7.632,0,0,1-6.825-11.047l38.955-77.85a24.646,24.646,0,0,1,22.04-13.617h184.1a24.645,24.645,0,0,1,22.04,13.617l38.955,77.85a7.632,7.632,0,0,1-6.825,11.047" transform="translate(0 -704.684)" fill="#cf9eff"/>
+      </g>
+    </g>
+    <g id="Grupo_1212413" data-name="Grupo 1212413" transform="translate(418.937 5032.12)">
+      <g id="Grupo_1212407" data-name="Grupo 1212407" transform="translate(0)" clip-path="url(#clip-path-2)">
+        <path id="Trazado_1284717" data-name="Trazado 1284717" d="M114.851,80.718l-91.509.038C10.17,80.762-.113,69.1,0,56.487c.108-12.048,8.662-21.531,20.41-23.834a32.361,32.361,0,0,1,60.1-16.939,24.316,24.316,0,0,1,23.942-.835A24.733,24.733,0,0,1,117.26,32.621c11.963,2.157,20.812,11.939,20.679,24.312-.131,12.215-10.047,23.78-23.088,23.786" transform="translate(0 0)" fill="#19538d"/>
+      </g>
+    </g>
+    <g id="Unión_26" data-name="Unión 26" transform="translate(406.697 5130.486)" fill="#f1e2ff">
+      <path d="M 12.24107551574707 242.2113494873047 L 2.595532417297363 225.4658355712891 L 4.789052963256836 225.4658355712891 L 6.289052963256836 225.4658355712891 L 6.289052963256836 223.9658355712891 L 6.289052963256836 1.49999213218689 L 18.19042778015137 1.49999213218689 L 18.19042778015137 223.9658355712891 L 18.19042778015137 225.4658355712891 L 19.69042778015137 225.4658355712891 L 21.88469696044922 225.4658355712891 L 12.24107551574707 242.2113494873047 Z" stroke="none"/>
+      <path d="M 12.24096965789795 239.2058563232422 L 19.28990745544434 226.9658355712891 L 16.6904239654541 226.9658355712891 L 16.6904239654541 2.999998331069946 L 7.789056777954102 2.999998331069946 L 7.789056777954102 226.9658355712891 L 5.190610885620117 226.9658355712891 L 12.24096965789795 239.2058563232422 M 12.24122333526611 245.216796875 L 0.0004902343498542905 223.9658355712891 L 4.789056777954102 223.9658355712891 L 4.789056777954102 -1.56249996052793e-06 L 19.6904239654541 -1.56249996052793e-06 L 19.6904239654541 223.9658355712891 L 24.47949028015137 223.9658355712891 L 12.24122333526611 245.216796875 Z" stroke="none" fill="#62249e"/>
+    </g>
+    <g id="Unión_25" data-name="Unión 25" transform="translate(544.639 5130.486)" fill="#f1e2ff">
+      <path d="M 18.19042778015137 243.7168121337891 L 6.289052963256836 243.7168121337891 L 6.289052963256836 21.24999237060547 L 6.289052963256836 19.74999237060547 L 4.789052963256836 19.74999237060547 L 2.595609426498413 19.74999237060547 L 12.24108409881592 3.005359649658203 L 21.8846378326416 19.74999237060547 L 19.69042778015137 19.74999237060547 L 18.19042778015137 19.74999237060547 L 18.19042778015137 21.24999237060547 L 18.19042778015137 243.7168121337891 Z" stroke="none"/>
+      <path d="M 16.6904239654541 242.216796875 L 16.6904239654541 18.24999809265137 L 19.28977012634277 18.24999809265137 L 12.24096202850342 6.010751724243164 L 5.190733909606934 18.24999809265137 L 7.789056777954102 18.24999809265137 L 7.789056777954102 242.216796875 L 16.6904239654541 242.216796875 M 19.6904239654541 245.216796875 L 4.789056777954102 245.216796875 L 4.789056777954102 21.24999809265137 L 0.0004902343498542905 21.24999809265137 L 12.24122333526611 -1.56249996052793e-06 L 24.47949028015137 21.24999809265137 L 19.6904239654541 21.24999809265137 L 19.6904239654541 245.216796875 Z" stroke="none" fill="#62249e"/>
+    </g>
+    <text id="Manual_Testing" data-name="Manual
+Testing" transform="translate(456.907 5057)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.018" y="18">Manual</tspan><tspan x="2.317" y="42">Testing</tspan></text>
+    <rect id="Rectángulo_466631" data-name="Rectángulo 466631" width="98" height="63" transform="translate(300 5130)" fill="#bcddff"/>
+    <rect id="Rectángulo_466634" data-name="Rectángulo 466634" width="98" height="63" transform="translate(578 5130)" fill="#bcddff"/>
+    <rect id="Rectángulo_466632" data-name="Rectángulo 466632" width="98" height="63" transform="translate(300 5313)" fill="#bcddff"/>
+    <rect id="Rectángulo_466633" data-name="Rectángulo 466633" width="98" height="63" transform="translate(578 5313)" fill="#bcddff"/>
+    <text id="more_integration" data-name="more
+integration" transform="translate(307 5138)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="21.07" y="18">more</tspan><tspan x="2.43" y="42">integratio</tspan></text>
+    <text id="slower" transform="translate(585 5150)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="15.931" y="18">slower</tspan></text>
+    <text id="more_isolation" data-name="more
+isolation" transform="translate(307 5321)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="21.07" y="18">more</tspan><tspan x="7.597" y="42">isolation</tspan></text>
+    <text id="faster" transform="translate(585 5333)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="19.173" y="18">faster</tspan></text>
+    <ellipse id="Elipse_13728" data-name="Elipse 13728" cx="16.61" cy="16.61" rx="16.61" ry="16.61" transform="translate(471.827 5130.486)" fill="#62249e"/>
+    <ellipse id="Elipse_13729" data-name="Elipse 13729" cx="16.61" cy="16.61" rx="16.61" ry="16.61" transform="translate(471.827 5225.654)" fill="#19538d"/>
+    <ellipse id="Elipse_13730" data-name="Elipse 13730" cx="16.61" cy="16.61" rx="16.61" ry="16.61" transform="translate(471.827 5331.434)" fill="#62249e"/>
+    <text id="_1" data-name="1" transform="translate(481.536 5135.731)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.667" y="18">1</tspan></text>
+    <g id="Grupo_1212414" data-name="Grupo 1212414" transform="translate(-641 851)">
+      <rect id="Rectángulo_466627" data-name="Rectángulo 466627" width="278" height="101" transform="translate(998 4572)" fill="#cf9eff" opacity="0.53"/>
+      <rect id="Rectángulo_466628" data-name="Rectángulo 466628" width="278" height="101" transform="translate(998 4697)" fill="#7dbfff" opacity="0.53"/>
+      <rect id="Rectángulo_466629" data-name="Rectángulo 466629" width="278" height="79" transform="translate(998 4822)" fill="#cf9eff" opacity="0.53"/>
+      <text id="UI_Tests_E2E_Native_UI_Tests_On_Critical_Flows" data-name="UI Tests
+E2E,Native UI Tests On Critical Flows" transform="translate(1034 4587)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">UI Tests</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="42">E2E,Native UI Tests On Critical </tspan><tspan x="0" y="66">Flows</tspan></tspan></text>
+      <text id="Integration_Tests_Integrate_and_test_units_to_work_together" data-name="Integration Tests
+Integrate and test units
+to work together" transform="translate(1034 4712)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Integration Tests</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="42">Integrate and test units</tspan><tspan x="0" y="66">to work together</tspan></tspan></text>
+      <text id="Unit_Tests_Building_small_testable_units" data-name="Unit Tests
+Building small testable units" transform="translate(1034 4837)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="18">Unit Tests</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="42">Building small testable units</tspan></tspan></text>
+      <circle id="Elipse_13725" data-name="Elipse 13725" cx="19" cy="19" r="19" transform="translate(970 4603.5)" fill="#62249e"/>
+      <circle id="Elipse_13726" data-name="Elipse 13726" cx="19" cy="19" r="19" transform="translate(970 4728.5)" fill="#19538d"/>
+      <circle id="Elipse_13727" data-name="Elipse 13727" cx="19" cy="19" r="19" transform="translate(970 4842.5)" fill="#62249e"/>
+      <text id="_1-2" data-name="1" transform="translate(981.105 4609.5)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">1</tspan></text>
+      <text id="_2" data-name="2" transform="translate(981.105 4734.5)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(981.105 4848.5)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">3</tspan></text>
+    </g>
+    <text id="_2-2" data-name="2" transform="translate(481.536 5230.899)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.667" y="18">2</tspan></text>
+    <text id="_3-2" data-name="3" transform="translate(481.536 5336.679)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.667" y="18">3</tspan></text>
+  </g>
+</svg>

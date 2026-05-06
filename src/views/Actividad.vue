@@ -17,10 +17,11 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema:
+        'Desafío QA master: dominio del proceso de pruebas de <em><em>software</em></em>',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> evaluar de forma integral los conocimientos sobre el proceso de pruebas de <em>software</em>, abarcando metodologías de desarrollo, fundamentos, técnicas, gestión, automatización y mejora continua, con el propósito de fortalecer la comprensión conceptual y aplicada en entornos reales de desarrollo y aseguramiento de la calidad.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -28,28 +29,28 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Cuál es el propósito principal de una metodología de desarrollo de <em>software</em>?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Organizar el proceso de desarrollo.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Ejecutar pruebas automáticas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Diseñar interfaces gráficas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Documentar errores.',
               esCorrecta: false,
             },
           ],
@@ -58,29 +59,28 @@ export default {
         },
         {
           id: 2,
-          texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Qué caracteriza a las metodologías ágiles?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Procesos rígidos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Documentación extensa.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Adaptabilidad al cambio.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Uso exclusivo de pruebas manuales.',
               esCorrecta: false,
             },
           ],
@@ -89,28 +89,28 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Qué representan las lecciones aprendidas en un proyecto?',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Errores eliminados.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Conocimiento adquirido del proceso.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Documentos técnicos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Requisitos funcionales.',
               esCorrecta: false,
             },
           ],
@@ -120,29 +120,29 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            '¿Cuál es el objetivo principal de las pruebas de <em>software</em>?',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Diseñar sistemas.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Crear código.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Implementar interfaces.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Verificar el cumplimiento de requisitos.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -150,28 +150,28 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: '¿Qué nivel de prueba valida componentes individuales?',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Integración.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Sistema.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Unidad.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Aceptación.',
               esCorrecta: false,
             },
           ],
@@ -180,29 +180,28 @@ export default {
         },
         {
           id: 6,
-          texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Cuál es un ejemplo de prueba no funcional?',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Validación de login.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Prueba de rendimiento.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Registro de usuario.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Flujo de compra.',
               esCorrecta: false,
             },
           ],
@@ -211,29 +210,28 @@ export default {
         },
         {
           id: 7,
-          texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Qué elemento define condiciones específicas de validación?',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Escenario.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Caso de prueba.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Incidencia.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Evidencia.',
               esCorrecta: false,
             },
           ],
@@ -242,30 +240,29 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+          texto: '¿Qué documento define la estrategia de pruebas?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Informe.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Caso de prueba.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Matriz.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Plan de pruebas.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -273,20 +270,29 @@ export default {
         },
         {
           id: 9,
-          texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: '¿Qué permite un cronograma de pruebas?',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Evaluar código.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Controlar tiempos.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Diseñar pruebas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Identificar errores.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -294,19 +300,28 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Qué describe un escenario de prueba?',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Error del sistema.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Resultado esperado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Situación general de uso.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Código fuente.',
               esCorrecta: false,
             },
           ],
@@ -315,20 +330,29 @@ export default {
         },
         {
           id: 11,
-          texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Cuál es el objetivo de las técnicas de prueba?',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Ejecutar código.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Diseñar pruebas eficientes.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Registrar errores.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Documentar resultados.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -336,19 +360,28 @@ export default {
         },
         {
           id: 12,
-          texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto: '¿Qué representa el ciclo TDD?',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Test → Deploy → Design.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Code → Test → Debug.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Red → Green → Refactor.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Plan → Execute → Report.',
               esCorrecta: false,
             },
           ],
@@ -357,19 +390,28 @@ export default {
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: '¿Cuál es una herramienta de pruebas?',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Excel.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Selenium.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Word.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'PowerPoint.',
               esCorrecta: false,
             },
           ],
@@ -378,20 +420,29 @@ export default {
         },
         {
           id: 14,
-          texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: '¿Qué garantiza la confidencialidad en pruebas?',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Documentación.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Automatización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Acceso controlado.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Ejecución manual.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -399,20 +450,179 @@ export default {
         },
         {
           id: 15,
-          texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: '¿Qué describe un modelo de proceso?',
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Código fuente.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Estructura de actividades.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Interfaz gráfica.',
               esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Base de datos.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto: '¿Qué implica la resolución de problemas?',
+          imagen: require('@/assets/actividad/imagen8.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Ejecutar pruebas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Registrar datos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Diseñar <em>software</em>.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Analizar y corregir errores.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto: '¿Qué mide la cobertura de pruebas?',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Tiempo de ejecución.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Cantidad de errores.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Alcance de validación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Recursos usados.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto: '¿Qué define el plan de certificación?',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Diseño del sistema.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Validación final del <em>software</em>.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Desarrollo del código.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Gestión de recursos.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto: '¿Qué es el refactoring?',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Crear código nuevo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Mejorar el código sin cambiar su funcionalidad.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Ejecutar pruebas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Eliminar errores.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto: '¿Qué permite la automatización de pruebas?',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Diseñar interfaces.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Reducir documentación.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Ejecutar pruebas manuales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Ejecutar pruebas de forma automática.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
