@@ -282,7 +282,7 @@
         figure
           img(src='@/assets/curso/tema4/16.png', alt='', style="width: 390px").m-auto
       .col-lg-8
-        p teAdemás, la integración entre la gestión del proceso y la confidencialidad permite establecer un entorno controlado donde las pruebas se ejecutan de forma segura, asegurando que tanto el proceso como la información se mantengan bajo control.
+        p Además, la integración entre la gestión del proceso y la confidencialidad permite establecer un entorno controlado donde las pruebas se ejecutan de forma segura, asegurando que tanto el proceso como la información se mantengan bajo control.
 
         p En entornos actuales, donde las pruebas se integran en procesos continuos, la gestión y la confidencialidad deben adaptarse a dinámicas más rápidas, garantizando control sin afectar la agilidad del desarrollo. Esto implica utilizar herramientas que permitan automatizar controles y monitorear el acceso a la información en tiempo real.
 
@@ -373,7 +373,7 @@
       .col-lg-10
         .row.align-items-center
           .col-lg-12
-            .cajon.color2.p-4
+            .cajon.color1.p-4
               p Las pruebas se integran en procesos continuos, la documentación tiende a ser más dinámica, adaptándose a herramientas digitales que permiten actualizar la información en tiempo real. Esto mejora la accesibilidad y facilita la gestión del proceso
 
         p.mt-4 La correcta aplicación de modelos de procesos y una adecuada gestión de la documentación permiten garantizar que las pruebas se desarrollen de manera organizada, controlada y verificable, contribuyendo a la calidad del <em>software</em> y a la eficiencia del equipo.

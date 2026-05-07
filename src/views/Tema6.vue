@@ -335,7 +335,7 @@
               .col-lg-7
                 p La entrega continua (CD) amplía el concepto de integración continua, permitiendo que el <em>software</em> validado esté listo para su despliegue en cualquier momento. Este enfoque asegura que el sistema se mantenga en un estado estable, facilitando su implementación en entornos productivos.
 
-                p La entrega continua no implica necesariamente que el <em>software</em> se despliegue automáticamente, sino que garantiza que el sistema cumple con los criterios necesarios para ser liberado. los cambios realizados no afecten funcionalidades existentes. Además, permite ejecutar pruebas en diferentes entornos, asegurando consistencia en los resultados.
+                p La entrega continua no implica necesariamente que el <em>software</em> se despliegue automáticamente, sino que garantiza que el sistema cumple con los criterios necesarios para ser liberado.
 
               .col-lg-5
                 figure

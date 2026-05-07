@@ -570,7 +570,7 @@ export default {
         },
         {
           id: 19,
-          texto: '¿Qué es el refactoring?',
+          texto: '¿Qué es el <em>refactoring</em>?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [

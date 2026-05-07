@@ -154,6 +154,32 @@
             alt=''
           )
 
+    .bloque-texto-g.bloque-texto-g--inverso.bg-3.p-3.p-sm-4.p-md-5.mt-4
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema5/9.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La cobertura de pruebas se refiere al grado en que el sistema ha sido evaluado mediante los casos de prueba ejecutados. Este concepto permite medir qué porcentaje de funcionalidades, requisitos o código ha sido validado, proporcionando una visión cuantitativa del alcance de las pruebas.
+
+    p.mt-4 Una cobertura adecuada no implica probar todos los posibles escenarios, sino asegurar que las áreas críticas del sistema han sido evaluadas. Esto permite optimizar el proceso, enfocando los esfuerzos en los componentes más relevantes.
+
+    p Complementando los procesos anteriores, se presenta la siguiente imagen clasificatoria:
+
+    .row.justify-content-center
+      .col-10
+        .titulo-sexto.color-acento-contenido.mb-3.mt-4
+          h5 Figura 10. 
+          span Clasificación de las métricas de cobertura de pruebas de software
+        figure
+          img.d-none.d-md-block.m-auto(
+            src='@/assets/curso/tema5/10.svg',
+            alt='Figura 10 que presenta la clasificación de las métricas de cobertura de pruebas de software, agrupando las medidas de cobertura funcional, de datos y de código. La figura incluye métricas como cobertura de funciones, resultados y cadenas de funciones; cobertura de valores, atributos y objetos; y cobertura de declaraciones, métodos, sucursales, rutas y estados, integradas dentro de las medidas de cobertura de pruebas (TCOV-1), utilizadas para evaluar el nivel de prueba alcanzado.'
+          )
+          img.d-block.d-md-none.m-auto(
+            src='@/assets/curso/tema5/11.svg',
+            alt=''
+          )
+
     .row.align-items-center.justify-content-center.mt-4(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block
         figure
@@ -170,8 +196,11 @@
                 .cajon.color1.p-4
                   p La relación entre ejecución, cobertura y rendimiento permite evaluar el sistema de manera integral, considerando tanto el cumplimiento de funcionalidades como su comportamiento bajo condiciones reales. Esta combinación proporciona una visión completa del estado del <em>software</em>.
 
-    .row.justify-content-center.mt-4
+      
+
+    .row.justify-content-center
       .col-lg-10
+        p.mt-4 Estas actividades se integran en procesos automatizados que permiten ejecutar pruebas, medir cobertura y analizar rendimiento de forma continua. Esto mejora la calidad del software y facilita la detección temprana de problemas.
         .row.align-items-center
           .col-lg-12
             .cajon.color2.p-4
@@ -361,7 +390,7 @@
 
                 li.d-flex.align-items-start
                   span.icono-img
-                  p.mb-0 Reducción d ela deuda técnica.
+                  p.mb-0 Reducción de la deuda técnica.
 
                 li.d-flex.align-items-start
                   span.icono-img
