@@ -31,7 +31,7 @@
 
     .row
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5
+        .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 1
           p.text-center 
@@ -39,7 +39,7 @@
           p.text-center Ejecuta pruebas repetitivas de forma automática, reduciendo el trabajo manual y el tiempo de validación.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-5
+        .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center 
@@ -47,7 +47,7 @@
           p.text-center Organiza y controla los casos de prueba y sus resultados.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5
+        .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center 
@@ -55,7 +55,7 @@
           p.text-center Registra y monitorea las incidencias detectadas durante las pruebas.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.p-5
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 
@@ -120,7 +120,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema4/7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/7.svg')
           
         h4.text-center Herramientas de ejecución de pruebas
         p Se enfocan en la ejecución de casos de prueba, ya sea de forma manual asistida o automatizada, permitiendo validar el comportamiento del sistema de manera constante y reducir el esfuerzo en tareas repetitivas.
@@ -128,7 +128,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema4/8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/8.svg')
           
         h4.text-center Herramientas de automatización funcional
         p Permiten ejecutar pruebas simulando la interacción del usuario con la aplicación, facilitando la validación de procesos completos sin intervención manual. Son ampliamente utilizadas en pruebas de regresión, donde es necesario ejecutar los mismos casos en múltiples versiones del sistema.
@@ -136,7 +136,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema4/9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema4/9.svg')
           
         h4.text-center Herramientas de pruebas de rendimiento
         p Se utilizan para analizar el comportamiento del sistema bajo diferentes niveles de carga, identificando fallos relacionados con tiempos de respuesta, estabilidad y capacidad. Son fundamentales en sistemas con múltiples usuarios o grandes volúmenes de información.

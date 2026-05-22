@@ -95,7 +95,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema2/8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/8.svg')
           
         h4.text-center Pruebas funcionales
         p Verifican que las funcionalidades del sistema cumplan correctamente con los requisitos establecidos y respondan según lo esperado ante distintas acciones del usuario.
@@ -103,7 +103,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema2/9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/9.svg')
           
         h4.text-center Pruebas no funcionales
         p Evalúan aspectos como el rendimiento, la seguridad, la usabilidad y la estabilidad del sistema, garantizando una experiencia adecuada bajo diferentes condiciones.
@@ -111,7 +111,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema2/10.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/10.svg')
           
         h4.text-center Pruebas manuales
         p Son ejecutadas por personas que interactúan directamente con el sistema, explorando su comportamiento, identificando errores y validando la experiencia de uso.
@@ -120,7 +120,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema2/11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/11.svg')
           
         h4.text-center Pruebas automatizadas
         p Son ejecutadas por herramientas especializadas que permiten repetir pruebas de forma eficiente, detectar fallos de manera temprana y optimizar el tiempo del proceso de validación.
@@ -154,7 +154,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1. Concepto, objetivos y niveles de prueba
 
-    p Para contextualizarse en esta temática, se invita a acceder al siguiente video introductorio, en el cual se explican de manera clara el concepto de pruebas de <em>software</em>, sus objetivos principales y los niveles de prueba. A través de ejemplos prácticos, se muestra cómo las pruebas permiten verificar el cumplimiento de los requisitos, identificar fallos y reducir riesgos, proporcionando una base sólida para comprender su importancia dentro del proceso de desarrollo de <em>software</em>:
+    p Para contextualizarse en esta temática, se invita a acceder al siguiente video introductorio, en el cual se explica de manera clara el concepto de pruebas de <em>software</em>, sus objetivos principales y los niveles de prueba. A través de ejemplos prácticos, se muestra cómo las pruebas permiten verificar el cumplimiento de los requisitos, identificar fallos y reducir riesgos, proporcionando una base sólida para comprender su importancia dentro del proceso de desarrollo de <em>software</em>:
 
     .row.justify-content-center.align-items-center.mt-4           
       .col-lg-12

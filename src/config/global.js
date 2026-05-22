@@ -254,6 +254,12 @@ export default {
         'registro de una desviación entre el comportamiento esperado y el observado en el sistema durante la ejecución de pruebas.',
     },
     {
+      termino:
+        '<strong>Metodología de desarrollo de <em>software</em></strong>',
+      significado:
+        'conjunto de enfoques, principios y prácticas que guían la planificación, construcción y entrega de un sistema de <em>software</em>, definiendo cómo se organizan las actividades y los roles dentro del proceso.',
+    },
+    {
       termino: '<strong>Plan de pruebas</strong>',
       significado:
         'documento que define la estrategia de validación del <em>software</em>, incluyendo alcance, criterios, prioridades y organización de las actividades de prueba.',
@@ -322,7 +328,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

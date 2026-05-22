@@ -17,7 +17,7 @@
             .row.align-items-center
               .col-lg-12
                 .cajon.color1.p-4
-                  p Estas son enfoques estructurados que permiten organizar y gestionar la construcción de sistemas informáticos, mediante la definición de fases, actividades, roles y entregables. Su aplicación facilita la planificación del proyecto, el control de los procesos y la entrega de soluciones alineadas con los requerimientos establecidos.
+                  p Estos son enfoques estructurados que permiten organizar y gestionar la construcción de sistemas informáticos, mediante la definición de fases, actividades, roles y entregables. Su aplicación facilita la planificación del proyecto, el control de los procesos y la entrega de soluciones alineadas con los requerimientos establecidos.
  
 
         p.mt-2 En términos generales, el desarrollo de <em>software</em> se compone de diversas etapas, las cuales se integran de forma ordenada dentro de una metodología. Estas etapas permiten transformar necesidades del usuario en soluciones funcionales, asegurando trazabilidad y control durante todo el proceso. Dichas etapas son:
@@ -95,7 +95,7 @@
           
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1. Conceptos y tipos de metodologías
+      h2 1.1 Conceptos y tipos de metodologías
 
     .row.align-items-center(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block
@@ -159,7 +159,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema1/8.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/8.svg')
           
         h4.text-center Metodologías tradicionales
         p Organizan el desarrollo en fases consecutivas que deben completarse antes de avanzar a la siguiente. Este enfoque facilita el control del proceso y la documentación, pero limita la incorporación de cambios una vez iniciado el proyecto. 
@@ -167,7 +167,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema1/9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/9.svg')
           
         h4.text-center Metodologías ágiles
         p Trabajan mediante ciclos cortos de desarrollo que permiten evaluar resultados de forma continua, ajustando el producto según las necesidades del usuario. Su enfoque prioriza la colaboración del equipo, la entrega frecuente de resultados y la adaptación rápida a los cambios del proyecto.
@@ -175,7 +175,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema1/10.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/10.svg')
           
         h4.text-center Metodologías híbridas
         p Surgen como una alternativa que busca integrar la estructura de los modelos tradicionales con la flexibilidad de los enfoques ágiles, permitiendo mantener control sin perder capacidad de adaptación. Este tipo de enfoque es común en organizaciones que requieren cumplimiento de estándares, pero también necesitan responder a cambios del entorno.
@@ -211,15 +211,15 @@
               .cajon.color2.p-4
                 p Además, la metodología seleccionada define la forma en que se integran las pruebas de <em>software</em>. En modelos secuenciales, las pruebas suelen ubicarse al final del proceso, mientras que en enfoques iterativos se incorporan de manera continua, permitiendo detectar errores de forma temprana y reducir costos de corrección.
 
-    p.m-4.text-center La siguiente imagen, resume un poco lo que aborda cada metodología:
+    p.m-4.text-center La siguiente imagen resume un poco lo que aborda cada metodología:
 
     .row.justify-content-center
-      .col-10
+      .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Figura 2. 
           span Metodologías de desarrollo de <em>software</em>
         figure
-          img.d-none.d-md-block.m-auto(
+          img.m-auto(
             src='@/assets/curso/tema1/11.svg',
             alt='Figura 2 que contiene un esquema comparativo de las metodologías de desarrollo tradicional (cascada), ágil e híbrida, que muestra sus etapas principales, el flujo de trabajo y las diferencias entre procesos secuenciales, iterativos y combinados dentro del ciclo de desarrollo de <em>software</em>.'
           )
@@ -496,7 +496,7 @@
             tbody
               tr(style="background-color: #F6F6F6")
                 td.text-start 
-                  b Fallos en comunicación.
+                  b Fallos en la comunicación.
                 td.text-start Ajuste en canales de interacción.
 
               tr

@@ -10,7 +10,7 @@
     figure
       img(src='@/assets/curso/tema5/1.png', alt='', style="width: 1290px").m-auto
 
-    p.mt-4 La fase de ejecución, certificación y mejora continua corresponde al cierre del proceso de pruebas de <em>software</em>. En esta etapa se consolidan los resultados obtenidos, se valida el cumplimiento de los criterios de calidad definidos y se establecen acciones orientadas a la optimización del sistema y del propio proceso de pruebas. Para este proceso de deben realizar los siguientes pasos:
+    p.mt-4 La fase de ejecución, certificación y mejora continua corresponde al cierre del proceso de pruebas de <em>software</em>. En esta etapa se consolidan los resultados obtenidos, se valida el cumplimiento de los criterios de calidad definidos y se establecen acciones orientadas a la optimización del sistema y del propio proceso de pruebas. Para este proceso se deben realizar los siguientes pasos:
 
     .row.justify-content-center
       .col-lg-12
@@ -169,7 +169,7 @@
       .col-10
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Figura 10. 
-          span Clasificación de las métricas de cobertura de pruebas de software
+          span Clasificación de las métricas de cobertura de pruebas de <em>software</em>
         figure
           img.d-none.d-md-block.m-auto(
             src='@/assets/curso/tema5/10.svg',

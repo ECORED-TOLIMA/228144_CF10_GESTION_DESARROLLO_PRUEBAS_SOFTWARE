@@ -20,7 +20,7 @@
 
     p.mt-4 La planificación se construye a partir del análisis del sistema, identificando funcionalidades críticas, dependencias y posibles puntos de fallo. Esto permite establecer un enfoque selectivo que optimiza el uso de recursos sin sacrificar calidad.
 
-    p Los componentes de la planificación de Tarjetas.
+    p Los componentes de la planificación son:
 
     .row.justify-content-center 
       .col-lg-5.d-none.d-lg-block
@@ -171,7 +171,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema3/9.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/9.svg')
           
         h4.text-center Documento estructurado
         p Se aplica en proyectos formales que demandan una planificación detallada y documentación completa. Permite definir con claridad los objetivos, requisitos, responsables y criterios de control, facilitando la trazabilidad del proyecto y el cumplimiento de normas, auditorías o lineamientos institucionales. 
@@ -179,7 +179,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema3/10.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/10.svg')
           
         h4.text-center Plantilla ágil
         p Está pensada para equipos iterativos que trabajan en ciclos cortos de desarrollo. Ofrece una estructura flexible para organizar tareas, priorizar actividades y registrar avances, favoreciendo la adaptación continua a los cambios y la mejora progresiva del producto.
@@ -187,7 +187,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema3/11.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/11.svg')
           
         h4.text-center Herramienta digital
         p Se orienta a la gestión colaborativa del proyecto, integrando funcionalidades como seguimiento de tareas, comunicación del equipo y control de versiones. Facilita el trabajo conjunto, la visibilidad del progreso y la toma de decisiones basada en información actualizada.
@@ -348,7 +348,7 @@
       .col-lg-8
         p La relación entre escenario y caso de prueba permite descomponer situaciones complejas en validaciones concretas, facilitando la cobertura del sistema sin generar duplicidad de pruebas.
 
-        p La diferencia entre escenario y caso de prueba, radica en lo siguiente:
+        p La diferencia entre escenario y caso de prueba radica en lo siguiente:
 
         .row.justify-content-center
           .col-12.col-md-6.col-lg-6.mb-md-0(data-aos="fade-right")
@@ -536,14 +536,14 @@
           img(src='@/assets/curso/tema3/33.svg', style='width: 100px').m-auto
       
       .col-lg-9
-        p En este modelo, cada funcionalidad se desarrolla a partir de una prueba que inicialmente falla, lo que indica que el comportamiento aún no está implementado. Posteriormente, se escribe el código necesario para cumplir con la prueba, y finalmente se optimiza la solución sin alterar su funcionalidad. Dicho proceso, se detalla en la siguiente imagen:
+        p En este modelo, cada funcionalidad se desarrolla a partir de una prueba que inicialmente falla, lo que indica que el comportamiento aún no está implementado. Posteriormente, se escribe el código necesario para cumplir con la prueba, y finalmente se optimiza la solución sin alterar su funcionalidad. Dicho proceso se detalla en la siguiente imagen:
 
 
     .row.justify-content-center
       .col-10
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Figura 8.  
-          span Ciclo de desarrollo dirigido por pruebas (TDD): Red – Green – Refactor
+          span Ciclo de desarrollo dirigido por pruebas (TDD): <em>Red – Green – Refactor</em>
         figure
           img.d-none.d-md-block.m-auto(
             src='@/assets/curso/tema3/34.svg',
@@ -554,7 +554,7 @@
             alt=''
           )
 
-        p.mt-4 Este ciclo se conoce como #[b Red → Green → Refactor], y permite validar continuamente el <em>software</em> durante su construcción. La aplicación de TDD no solo mejora la calidad del código, sino que facilita la detección temprana de errores y reduce la necesidad de correcciones posteriores. Cada acción dentro de este ciclo representa lo siguiente:
+        p.mt-4 Este ciclo se conoce como #[b #[i Red → Green → Refactor]], y permite validar continuamente el <em>software</em> durante su construcción. La aplicación de TDD no solo mejora la calidad del código, sino que facilita la detección temprana de errores y reduce la necesidad de correcciones posteriores. Cada acción dentro de este ciclo representa lo siguiente:
 
 
     .row.justify-content-center
@@ -566,7 +566,7 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Red]
+                    p.mb-0 #[b #[i Red]]
                     p Definición de prueba que falla.
     
     
@@ -578,7 +578,7 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Green]
+                    p.mb-0 #[b #[i Green]]
                     p Implementación mínima para pasar la prueba.
     
     
@@ -590,7 +590,7 @@
               .row.justify-content-center.mb-3
                 .col-auto
                   .py-2.px-3
-                    p.mb-0 #[b Refactor]
+                    p.mb-0 #[b #[i Refactor]]
                     p Mejora del código sin afectar resultados.
     
 
@@ -638,7 +638,7 @@
             .row.align-items-center
               .col-lg-12
                 .cajon.color2.p-3
-                  p La aplicación de TDD y una adecuada gestión de incidencias permite fortalecer el proceso de desarrollo, asegurando que los errores sean detectados de forma temprana y gestionados de manera eficiente, lo que contribuye a la entrega de <em>software</em> confiable y de alta calidad.
+                  p La aplicación de TDD y una adecuada gestión de incidencias permiten fortalecer el proceso de desarrollo, asegurando que los errores sean detectados de forma temprana y gestionados de manera eficiente, lo que contribuye a la entrega de <em>software</em> confiable y de alta calidad.
 
 
 

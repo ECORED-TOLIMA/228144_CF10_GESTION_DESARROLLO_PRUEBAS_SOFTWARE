@@ -39,7 +39,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/4.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/4.svg')
           
         h4.text-center Resumen ejecutivo
         p Presenta el estado general del proceso de pruebas, ofreciendo una visión consolidada de los resultados, avances y conclusiones relevantes para la toma de decisiones.
@@ -47,7 +47,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/5.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/5.svg')
           
         h4.text-center Resultados
         p Muestran la ejecución de las pruebas realizadas, indicando el estado de los casos evaluados y el nivel de cumplimiento de los criterios definidos.
@@ -55,7 +55,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/6.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/6.svg')
           
         h4.text-center Incidencias
         p Detallan los errores identificados durante la ejecución, describiendo su tipo, severidad e impacto sobre el funcionamiento del sistema.
@@ -64,7 +64,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/7.svg')
           
         h4.text-center Métricas
         p Permiten evaluar la calidad del <em>software</em> mediante indicadores que reflejan el desempeño, la cobertura de pruebas y la estabilidad del sistema.
@@ -214,7 +214,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/13.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/13.svg')
           
         h4.text-center Relación entre requisitos y pruebas
         p.text-center Vincula cada requisito con sus casos de prueba correspondientes.
@@ -222,7 +222,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/14.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/14.svg')
           
         h4.text-center Seguimiento de resultados
         p.text-center Registra el estado de ejecución de las pruebas realizadas.
@@ -230,7 +230,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/15.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/15.svg')
           
         h4.text-center Control de incidencias
         p.text-center Gestiona los defectos detectados durante las pruebas.
@@ -239,7 +239,7 @@
         .row.justify-content-center.mb-4
           .col-6
             figure
-              img(src='@/assets/curso/tema6/16.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema6/16.svg')
           
         h4.text-center Verificación de cobertura
         p.text-center Comprueba que todos los requisitos hayan sido validados.
@@ -258,7 +258,7 @@
 
     .row.mt-4
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5
+        .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 1
           p.text-center 
@@ -266,7 +266,7 @@
           p.text-center Relaciona los resultados con una versión específica del sistema.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-5
+        .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center 
@@ -274,7 +274,7 @@
           p.text-center Permite identificar modificaciones entre versiones.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5
+        .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center 
@@ -282,7 +282,7 @@
           p.text-center Facilita ubicar fallos según la versión afectada.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.p-5
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 
@@ -356,7 +356,7 @@
               img(src='@/assets/curso/tema6/22.svg', style='width: 80px').m-auto
           
           .col
-            p Además, estas prácticas permiten mejorar la colaboración entre equipos, ya que facilitan la integración de cambios y la validación conjunta del sistema. Esto contribuye a una mayor eficiencia en el desarrollo y a una mejor calidad del <em>software</em>; destacando:
+            p Además, estas prácticas permiten mejorar la colaboración entre equipos, ya que facilitan la integración de cambios y la validación conjunta del sistema. Esto contribuye a una mayor eficiencia en el desarrollo y a una mejor calidad del <em>software</em>, destacando:
 
         ul.lista-ul--color.mt-2
           li.d-flex.align-items-start
