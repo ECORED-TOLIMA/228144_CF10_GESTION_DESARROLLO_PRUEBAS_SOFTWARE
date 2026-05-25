@@ -424,7 +424,7 @@
             span.icono-img
             p.mb-0 Consistencia en la codificación.
 
-        p.mt-4 Los siguientes, son ejemplos de nomenclatura de casos de prueba:
+        p.mt-4 Los siguientes son ejemplos de nomenclatura de casos de prueba:
 
     .row.justify-content-center.mt-4
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
