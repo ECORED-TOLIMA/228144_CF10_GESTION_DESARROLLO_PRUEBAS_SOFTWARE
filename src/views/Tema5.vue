@@ -109,7 +109,7 @@
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido
-      h2 5.1. Ejecución de pruebas, cobertura y rendimiento
+      h2 5.1 Ejecución de pruebas, cobertura y rendimiento
 
 
     p La ejecución de pruebas constituye la fase en la cual se aplican los casos definidos sobre el sistema, con el objetivo de validar su comportamiento bajo condiciones específicas. Este proceso implica no solo la ejecución de los casos de prueba, sino también la recopilación de resultados y evidencias que permitan evaluar el cumplimiento de los requisitos establecidos.
@@ -210,7 +210,7 @@
 
     separador
     #t_5_2.titulo-segundo.color-acento-contenido
-      h2 5.2. Plan de certificación y gestión de incidencias
+      h2 5.2 Plan de certificación y gestión de incidencias
 
     p El plan de certificación establece las condiciones bajo las cuales un sistema puede ser aprobado para su implementación, definiendo criterios claros de calidad y validación. Este plan se construye a partir de los resultados obtenidos en las pruebas, permitiendo determinar si el <em>software</em> cumple con los requisitos funcionales, de rendimiento y de seguridad definidos.
 
@@ -303,7 +303,7 @@
 
     separador
     #t_5_3.titulo-segundo.color-acento-contenido
-      h2 5.3. Mejora continua y <em>refactoring</em>
+      h2 5.3 Mejora continua y <em>refactoring</em>
 
     p A continuación, se abordan dos prácticas fundamentales para el aseguramiento de la calidad del <em>software</em>: la mejora continua y el <em>refactoring</em>. Ambas se orientan a optimizar el sistema de manera progresiva, aunque desde enfoques complementarios.
 

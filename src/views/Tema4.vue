@@ -103,7 +103,7 @@
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1. Herramientas para la aplicación de pruebas
+      h2 4.1 Herramientas para la aplicación de pruebas
 
 
     .row.align-items-center(data-aos="fade-down")
@@ -192,7 +192,7 @@
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido
-      h2 4.2. Gestión del proceso y confidencialidad
+      h2 4.2 Gestión del proceso y confidencialidad
 
     .row.align-items-center(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block
@@ -295,7 +295,7 @@
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido
-      h2 4.3. Modelos de procesos y documentación
+      h2 4.3 Modelos de procesos y documentación
 
     p Los modelos de procesos en pruebas de <em>software</em> definen la forma en que se organizan y ejecutan las actividades de validación, estableciendo una secuencia estructurada que permite controlar el desarrollo de las pruebas desde su planificación hasta el cierre. Estos modelos no solo describen qué actividades se realizan, sino también cómo se relacionan entre sí y cómo se integran dentro del ciclo de vida del <em>software</em>.
 
@@ -380,7 +380,7 @@
 
     separador
     #t_4_4.titulo-segundo.color-acento-contenido
-      h2 4.4. Resolución de problemas y operación de pruebas
+      h2 4.4 Resolución de problemas y operación de pruebas
 
     p La operación de pruebas corresponde a la ejecución controlada de los casos definidos, donde se valida el comportamiento del sistema en condiciones reales o simuladas. Durante esta fase, el equipo de pruebas no solo ejecuta actividades previamente diseñadas, sino que también identifica desviaciones, analiza su impacto y toma decisiones para su tratamiento.
 

@@ -117,7 +117,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1. Plan de pruebas: concepto, alcance y formatos
+      h2 3.1 Plan de pruebas: concepto, alcance y formatos
 
     p El plan de pruebas es un documento que organiza de manera estructurada la ejecución de las pruebas dentro de un proyecto de <em>software</em>, estableciendo qué se va a evaluar, bajo qué condiciones y con qué criterios definidos. Su función principal es servir como guía para el equipo de pruebas, asegurando coherencia entre los objetivos del sistema y las actividades de validación.
 
@@ -200,7 +200,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2. Recursos, cronograma y gestión de ítems
+      h2 3.2 Recursos, cronograma y gestión de ítems
 
     .row.align-items-start.mt-4
       .col-lg-1.mb-lg-0.mb-4
@@ -325,7 +325,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3. Escenarios, casos de prueba y nomenclaturas
+      h2 3.3 Escenarios, casos de prueba y nomenclaturas
 
     .row.align-items-center(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block.order-2
@@ -459,7 +459,7 @@
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido
-      h2 3.4. Técnicas de pruebas de <em>software</em>
+      h2 3.4 Técnicas de pruebas de <em>software</em>
 
     .row.align-items-center(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block.order-2
@@ -526,7 +526,7 @@
 
     separador
     #t_3_5.titulo-segundo.color-acento-contenido
-      h2 3.5. Enfoque TDD y gestión de incidencias
+      h2 3.5 Enfoque TDD y gestión de incidencias
 
     p El enfoque #[b TDD (Test-Driven Development)] plantea una forma de desarrollo en la cual las pruebas se diseñan antes de escribir el código, estableciendo un ciclo de trabajo orientado a la validación continua. Este enfoque transforma el proceso tradicional, ya que el desarrollo se guía por los resultados esperados definidos en las pruebas, permitiendo construir soluciones alineadas con los requisitos desde el inicio.
 

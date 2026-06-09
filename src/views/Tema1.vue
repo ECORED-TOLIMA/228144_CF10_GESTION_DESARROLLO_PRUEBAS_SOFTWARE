@@ -233,7 +233,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2. Metodologías tradicionales y ágiles
+      h2 1.2 Metodologías tradicionales y ágiles
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-3.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -362,7 +362,7 @@
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3. Marcos de referencia y lecciones aprendidas
+      h2 1.3 Marcos de referencia y lecciones aprendidas
 
     p En el desarrollo de <em>software</em>, los marcos de referencia constituyen estructuras de apoyo que orientan la organización del trabajo, la colaboración entre equipos y la mejora de los procesos. A diferencia de las metodologías, estos no definen un flujo rígido de actividades, sino que establecen principios, prácticas y herramientas que pueden adaptarse según el contexto del proyecto.
 

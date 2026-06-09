@@ -152,7 +152,7 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
-      h2 2.1. Concepto, objetivos y niveles de prueba
+      h2 2.1 Concepto, objetivos y niveles de prueba
 
     p Para contextualizarse en esta temática, se invita a acceder al siguiente video introductorio, en el cual se explica de manera clara el concepto de pruebas de <em>software</em>, sus objetivos principales y los niveles de prueba. A través de ejemplos prácticos, se muestra cómo las pruebas permiten verificar el cumplimiento de los requisitos, identificar fallos y reducir riesgos, proporcionando una base sólida para comprender su importancia dentro del proceso de desarrollo de <em>software</em>:
 
@@ -210,7 +210,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido
-      h2 2.2. Tipos de pruebas de <em>software</em>
+      h2 2.2 Tipos de pruebas de <em>software</em>
 
 
     .row.align-items-center(data-aos="fade-down")
@@ -326,7 +326,7 @@
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido
-      h2 2.3. Elementos y procedimientos de prueba
+      h2 2.3 Elementos y procedimientos de prueba
 
     .row.align-items-center(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block.order-2
