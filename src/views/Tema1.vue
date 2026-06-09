@@ -399,7 +399,7 @@
     .row.justify-content-center
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/19.svg' alt='AvatarTop').m-auto
+          img(src='@/assets/curso/tema1/19.svg' ).m-auto
           .tarjeta.bg-4.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -412,7 +412,7 @@
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/20.svg' alt='AvatarTop').m-auto
+          img(src='@/assets/curso/tema1/20.svg').m-auto
           .tarjeta.bg-4.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -425,7 +425,7 @@
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/21.svg' alt='AvatarTop').m-auto
+          img(src='@/assets/curso/tema1/21.svg' ).m-auto
           .tarjeta.bg-4.shadow
             .p-4
               .row.justify-content-center.mb-3

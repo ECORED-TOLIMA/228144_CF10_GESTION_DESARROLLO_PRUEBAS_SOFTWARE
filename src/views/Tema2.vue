@@ -243,7 +243,7 @@
             .col-auto
               .circle-morado
                 figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema2/18.svg', alt='Estructura lógica', style='width: 80px')
+                  img(src='@/assets/curso/tema2/18.svg', style='width: 80px')
           h4.mb-0 Caja negra
 
           p Sin acceso al código - validación funcional. Se centran en evaluar el comportamiento del sistema desde el punto de vista del usuario, sin considerar su implementación interna.
@@ -254,7 +254,7 @@
             .col-auto
               .circle-morado
                 figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema2/19.svg', alt='Ideas generales', style='width: 80px')
+                  img(src='@/assets/curso/tema2/19.svg', style='width: 80px')
           h4.mb-0 Caja blanca
           p Acceso al código - evaluación interna. Analizan la lógica del código, permitiendo verificar estructuras internas como condiciones, ciclos y flujos de ejecución.
     
@@ -264,7 +264,7 @@
             .col-auto
               .circle-morado
                 figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema2/20.svg', alt='Ideas principales', style='width: 80px')
+                  img(src='@/assets/curso/tema2/20.svg', style='width: 80px')
           h4.mb-0 Caja gris
           p Acceso parcial - validación combinada. Combina ambos enfoques, siendo útil en escenarios donde se requiere validar funcionalidad con cierto conocimiento técnico.
 

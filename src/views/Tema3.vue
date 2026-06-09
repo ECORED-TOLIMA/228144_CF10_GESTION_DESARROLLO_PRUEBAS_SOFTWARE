@@ -25,7 +25,7 @@
     .row.justify-content-center 
       .col-lg-5.d-none.d-lg-block
         figure(data-aos="fade-up")
-          img(src='@/assets/curso/tema3/2.png', alt='', style="width: 100%").m-auto
+          img(src='@/assets/curso/tema3/2.png',  style="width: 100%").m-auto
       .col-lg-7
         LineaTiempoD.color-primario.linea-bold
           .row(numero="1" titulo="Alcance")
@@ -51,7 +51,7 @@
     .row.align-items-center(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block.order-2
         figure
-          img(src='@/assets/curso/tema3/3.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/3.png',  style="width: 480px").m-auto
       .col-lg-7
         .row.justify-content-center.mt-4
           .col-lg-12
@@ -79,7 +79,7 @@
     .row.align-items-center.mt-4(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/4.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/4.png',  style="width: 480px").m-auto
       .col-lg-7
         .row.justify-content-center.mt-4
           .col-lg-12
@@ -101,7 +101,7 @@
         .row.align-items-center(data-aos="fade-down")
           .col-lg-5.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/tema3/5.png', alt='', style="width: 480px").m-auto
+              img(src='@/assets/curso/tema3/5.png',  style="width: 480px").m-auto
           .col-lg-7
             .row.justify-content-center.mt-4
               .col-lg-12
@@ -132,7 +132,7 @@
         .row.align-items-center.mt-4(data-aos="fade-down")
           .col-lg-4.d-none.d-lg-block
             figure
-              img(src='@/assets/curso/tema3/7.png', alt='', style="width: 480px").m-auto
+              img(src='@/assets/curso/tema3/7.png',  style="width: 480px").m-auto
           .col-lg-8
             p El alcance del plan de pruebas delimita las funcionalidades, módulos o procesos que serán evaluados, evitando la ejecución de pruebas innecesarias. Esta definición se basa en el análisis del sistema y en la identificación de áreas críticas, lo que permite priorizar la validación según el impacto que pueda tener un fallo. El plan aplica lo siguiente:
 
@@ -242,7 +242,7 @@
 
       .col-lg-4.d-none.d-lg-block
         figure(data-aos="fade-down")
-          img(src='@/assets/curso/tema3/13.png', alt='', style="width: 100%").m-auto
+          img(src='@/assets/curso/tema3/13.png',  style="width: 100%").m-auto
 
 
     p.mt-4.text-center Con el fin de conocer la aplicación práctica de los recursos descritos, se relaciona la siguiente imagen explicativa:
@@ -277,7 +277,7 @@
     .row.align-items-center.justify-content-center.mt-4(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/15.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/15.png',  style="width: 480px").m-auto
       .col-lg-6
         p Un cronograma bien estructurado facilita el seguimiento del avance, permite anticipar posibles retrasos y realizar ajustes oportunos en la planificación. De esta manera, se evita la acumulación de actividades en las etapas finales del proyecto y se mantiene una visión clara y controlada del estado de las pruebas.
 
@@ -308,7 +308,7 @@
           .row.align-items-center.justify-content-center(data-aos="fade-down")
             .col-lg-4.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/tema3/17.png', alt='', style="width: 390px").m-auto
+                img(src='@/assets/curso/tema3/17.png',  style="width: 390px").m-auto
             .col-lg-7
               p La gestión incluye el registro detallado de los casos de prueba ejecutados, el control de los defectos detectados durante las pruebas, el seguimiento de las correcciones aplicadas por el equipo de desarrollo y la relación de estos elementos con las distintas versiones del sistema. Asimismo, se administran ítems como los casos de prueba, cuyo propósito es validar las funcionalidades del <em>software</em>; los defectos, que permiten documentar y dar seguimiento a los fallos encontrados; las evidencias, que sirven como soporte de los resultados obtenidos; y las versiones, que facilitan el control de los cambios realizados en el sistema a lo largo del tiempo.
 
@@ -330,7 +330,7 @@
     .row.align-items-center(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block.order-2
         figure
-          img(src='@/assets/curso/tema3/19.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/19.png',  style="width: 480px").m-auto
       .col-lg-8
         .row.bg-1.p-4
           figure
@@ -344,7 +344,7 @@
     .row.align-items-center(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/20.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/20.png',  style="width: 480px").m-auto
       .col-lg-8
         p La relación entre escenario y caso de prueba permite descomponer situaciones complejas en validaciones concretas, facilitando la cobertura del sistema sin generar duplicidad de pruebas.
 
@@ -353,7 +353,7 @@
         .row.justify-content-center
           .col-12.col-md-6.col-lg-6.mb-md-0(data-aos="fade-right")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/21.svg' alt='AvatarTop').m-auto
+              img(src='@/assets/curso/tema3/21.svg').m-auto
               .tarjeta.bg-4.shadow
                 .p-4
                   .row.justify-content-center
@@ -373,7 +373,7 @@
         
           .col-12.col-md-6.col-lg-6.mb-md-0(data-aos="fade-right")
             .tarjeta-avatar
-              img(src='@/assets/curso/tema3/22.svg' alt='AvatarTop').m-auto
+              img(src='@/assets/curso/tema3/22.svg' ).m-auto
               .tarjeta.bg-4.shadow
                 .p-4
                   .row.justify-content-center
@@ -402,7 +402,7 @@
     .row.align-items-center.justify-content-center.mt-4(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/24.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/24.png',  style="width: 480px").m-auto
       .col-lg-6
         p La nomenclatura en pruebas de <em>software</em> corresponde al conjunto de reglas utilizadas para nombrar y organizar escenarios y casos de prueba. Su aplicación permite mantener consistencia, facilitar la identificación de los elementos y mejorar su gestión dentro del proceso, especialmente en entornos donde se manejan múltiples casos de prueba. Además, debe tener en cuenta:  
 
@@ -431,7 +431,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/25.png", alt="alt")
+              img(src="@/assets/curso/tema3/25.png")
           .crd_hover_txt--body
             h4.mb-3 TC_LOGIN_01
             p.mb-0 Validación de inicio de sesión.
@@ -440,7 +440,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/26.png", alt="alt")
+              img(src="@/assets/curso/tema3/26.png")
           .crd_hover_txt--body
             h4.mb-3 TC_USER_02
             p.mb-0 Registro de usuario.
@@ -449,7 +449,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/tema3/27.png", alt="alt")
+              img(src="@/assets/curso/tema3/27.png")
           .crd_hover_txt--body
             h4.mb-3 TC_PAY_03
             p.mb-0 Proceso de pago.
@@ -464,7 +464,7 @@
     .row.align-items-center(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block.order-2
         figure
-          img(src='@/assets/curso/tema3/28.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/28.png',  style="width: 480px").m-auto
       .col-lg-7
         p Las técnicas de pruebas de <em>software</em> son métodos utilizados para diseñar casos de prueba de manera estructurada, permitiendo seleccionar condiciones de evaluación relevantes sin necesidad de ejecutar pruebas innecesarias.
 
@@ -496,7 +496,7 @@
     .row.align-items-center.mt-4(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/30.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/30.png',  style="width: 480px").m-auto
       .col-lg-8
 
         .row.bg-4.p-4
@@ -509,7 +509,7 @@
     .row.align-items-center.justify-content-center.mt-4(data-aos="fade-down")
       .col-lg-4.d-none.d-lg-block.order-2
         figure
-          img(src='@/assets/curso/tema3/32.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/32.png',  style="width: 480px").m-auto
       .col-lg-8
         p Estas técnicas se combinan según la complejidad del sistema y el tipo de funcionalidad evaluada, permitiendo diseñar pruebas más completas sin incrementar innecesariamente el número de casos.
 
@@ -560,7 +560,7 @@
     .row.justify-content-center
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/35.svg' alt='AvatarTop').m-auto
+          img(src='@/assets/curso/tema3/35.svg' ).m-auto
           .tarjeta.bg-4.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -572,7 +572,7 @@
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/36.svg' alt='AvatarTop').m-auto
+          img(src='@/assets/curso/tema3/36.svg' ).m-auto
           .tarjeta.bg-4.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -584,7 +584,7 @@
     
       .col-10.col-md-6.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema3/37.svg' alt='AvatarTop').m-auto
+          img(src='@/assets/curso/tema3/37.svg' ).m-auto
           .tarjeta.bg-4.shadow
             .p-4
               .row.justify-content-center.mb-3
@@ -600,7 +600,7 @@
     .row.align-items-center(data-aos="fade-down")
       .col-lg-5.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/38.png', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/38.png',  style="width: 480px").m-auto
       .col-lg-7
         .row.justify-content-center.mt-4
           .col-lg-12
@@ -631,7 +631,7 @@
     .row.align-items-center.justify-content-center.mt-4(data-aos="fade-down")
       .col-lg-2.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/tema3/40.svg', alt='', style="width: 480px").m-auto
+          img(src='@/assets/curso/tema3/40.svg',  style="width: 480px").m-auto
       .col-lg-8
         .row.justify-content-center
           .col-lg-12
