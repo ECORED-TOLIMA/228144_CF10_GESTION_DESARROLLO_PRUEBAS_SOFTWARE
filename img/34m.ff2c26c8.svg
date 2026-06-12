@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396" height="665" viewBox="0 0 396 665">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_466775" data-name="Rectángulo 466775" width="275.055" height="274.413" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_466774" data-name="Rectángulo 466774" width="275.054" height="274.414" fill="#cf9eff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_466771" data-name="Rectángulo 466771" width="81.922" height="124.983" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_466772" data-name="Rectángulo 466772" width="148.733" height="80.093" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_466773" data-name="Rectángulo 466773" width="81.918" height="124.983" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1212515" data-name="Grupo 1212515" transform="translate(-290 -13305)">
+    <rect id="Rectángulo_466783" data-name="Rectángulo 466783" width="396" height="665" rx="14" transform="translate(290 13305)" fill="#dfefff"/>
+    <g id="Grupo_1212507" data-name="Grupo 1212507" transform="translate(350.473 13324)">
+      <g id="Grupo_1212506" data-name="Grupo 1212506" clip-path="url(#clip-path)">
+        <g id="Grupo_1212505" data-name="Grupo 1212505" transform="translate(0 -0.001)">
+          <g id="Grupo_1212504" data-name="Grupo 1212504" clip-path="url(#clip-path-2)">
+            <path id="Trazado_1284779" data-name="Trazado 1284779" d="M130.684,6.225V129.137a6.223,6.223,0,0,1-3.236,5.458L56.58,173.363,19.592,193.6a6.227,6.227,0,0,1-8.726-3.053A137.611,137.611,0,0,1,123.852.028a6.225,6.225,0,0,1,6.832,6.2" transform="translate(0 0.003)" fill="#bf5aa2"/>
+            <path id="Trazado_1284780" data-name="Trazado 1284780" d="M335.035,747.581a137.544,137.544,0,0,1-226.944,0,6.231,6.231,0,0,1,2.127-9l36.979-20.23L218.58,679.3a6.217,6.217,0,0,1,5.969,0l71.38,39.047,36.979,20.23a6.231,6.231,0,0,1,2.127,9" transform="translate(-84.035 -532.978)" fill="#7db25d"/>
+            <path id="Trazado_1284781" data-name="Trazado 1284781" d="M803.7,136.882a137.063,137.063,0,0,1-10.866,53.664,6.227,6.227,0,0,1-8.726,3.053L747.12,173.363,676.256,134.6a6.224,6.224,0,0,1-3.236-5.458V6.225a6.225,6.225,0,0,1,6.832-6.2A137.541,137.541,0,0,1,803.7,136.882" transform="translate(-528.645 0.003)" fill="#ff7351"/>
+            <g id="Grupo_1212497" data-name="Grupo 1212497" transform="translate(48.762 48.383)" opacity="0.1">
+              <g id="Grupo_1212496" data-name="Grupo 1212496">
+                <g id="Grupo_1212495" data-name="Grupo 1212495" clip-path="url(#clip-path-3)">
+                  <path id="Trazado_1284782" data-name="Trazado 1284782" d="M306,311.752,235.129,350.52a88.817,88.817,0,0,1,74.1-124.984v80.758A6.223,6.223,0,0,1,306,311.752" transform="translate(-227.312 -225.537)"/>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_1212500" data-name="Grupo 1212500" transform="translate(63.161 145.559)" opacity="0.1">
+              <g id="Grupo_1212499" data-name="Grupo 1212499">
+                <g id="Grupo_1212498" data-name="Grupo 1212498" clip-path="url(#clip-path-4)">
+                  <path id="Trazado_1284783" data-name="Trazado 1284783" d="M371.784,679.3l71.38,39.046a88.785,88.785,0,0,1-148.733,0L365.815,679.3a6.217,6.217,0,0,1,5.969,0" transform="translate(-294.431 -678.537)"/>
+                </g>
+              </g>
+            </g>
+            <g id="Grupo_1212503" data-name="Grupo 1212503" transform="translate(144.375 48.383)" opacity="0.1">
+              <g id="Grupo_1212502" data-name="Grupo 1212502">
+                <g id="Grupo_1212501" data-name="Grupo 1212501" clip-path="url(#clip-path-5)">
+                  <path id="Trazado_1284784" data-name="Trazado 1284784" d="M754.937,314.038a88.479,88.479,0,0,1-7.817,36.482l-70.864-38.768a6.224,6.224,0,0,1-3.236-5.458V225.536a88.771,88.771,0,0,1,81.917,88.5" transform="translate(-673.02 -225.537)"/>
+                </g>
+              </g>
+            </g>
+            <path id="Trazado_1284785" data-name="Trazado 1284785" d="M434.189,353.459a77.738,77.738,0,1,1-77.738-77.738,77.738,77.738,0,0,1,77.738,77.738" transform="translate(-218.923 -216.573)" fill="#e6e6e6"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="TDD" transform="translate(468.716 13450.412)" fill="#12263f" font-size="17" font-family="SegoeUIBlack, Segoe UI"><tspan x="0.977" y="18">TDD</tspan></text>
+    <circle id="Elipse_13767" data-name="Elipse 13767" cx="17" cy="17" r="17" transform="translate(541.268 13404.199)" fill="#19538d"/>
+    <circle id="Elipse_13770" data-name="Elipse 13770" cx="17" cy="17" r="17" transform="translate(401.268 13404.199)" fill="#19538d"/>
+    <circle id="Elipse_13769" data-name="Elipse 13769" cx="17" cy="17" r="17" transform="translate(471.268 13521.199)" fill="#19538d"/>
+    <text id="_1" data-name="1" transform="translate(551.803 13409.967)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.813" y="18">1</tspan></text>
+    <text id="_3" data-name="3" transform="translate(411.504 13409.967)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.813" y="18">3</tspan></text>
+    <text id="_2" data-name="2" transform="translate(481.206 13526.139)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="1.813" y="18">2</tspan></text>
+    <g id="Grupo_1212513" data-name="Grupo 1212513" transform="translate(-9.909)">
+      <rect id="Rectángulo_466781" data-name="Rectángulo 466781" width="149" height="44" transform="translate(338.909 13620.297)" fill="#bcddff"/>
+      <rect id="Rectángulo_466780" data-name="Rectángulo 466780" width="149" height="44" transform="translate(526.284 13620)" fill="#bcddff"/>
+      <text id="ROJO" transform="translate(372.198 13630.297)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">ROJO</tspan></text>
+      <text id="VERDE" transform="translate(559.573 13630)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">VERDE</tspan></text>
+      <circle id="Elipse_13773" data-name="Elipse 13773" cx="19" cy="19" r="19" transform="translate(319.909 13623.297)" fill="#ff7351"/>
+      <circle id="Elipse_13771" data-name="Elipse 13771" cx="19" cy="19" r="19" transform="translate(507.284 13623)" fill="#7db25d"/>
+    </g>
+    <g id="Grupo_1212514" data-name="Grupo 1212514" transform="translate(0.312 -8.297)">
+      <rect id="Rectángulo_466779" data-name="Rectángulo 466779" width="149" height="44" transform="translate(422.688 13698.297)" fill="#bcddff"/>
+      <text id="REFACTOR" transform="translate(455.977 13708.297)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">REFACTOR</tspan></text>
+      <circle id="Elipse_13772" data-name="Elipse 13772" cx="19" cy="19" r="19" transform="translate(403.688 13701.297)" fill="#bf5aa2"/>
+    </g>
+    <rect id="Rectángulo_466717" data-name="Rectángulo 466717" width="273" height="44" transform="translate(360.688 13753)" fill="#bcddff"/>
+    <rect id="Rectángulo_466777" data-name="Rectángulo 466777" width="273" height="44" transform="translate(360.688 13823)" fill="#bcddff"/>
+    <rect id="Rectángulo_466778" data-name="Rectángulo 466778" width="273" height="44" transform="translate(360.688 13893)" fill="#bcddff"/>
+    <text id="Escribir_un_test_que_falle" data-name="Escribir un test que falle" transform="translate(393.977 13763)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Escribir un test que falle</tspan></text>
+    <text id="Hacer_que_el_código_funcione" data-name="Hacer que el código funcione" transform="translate(393.977 13833)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Hacer que el código funcione</tspan></text>
+    <text id="Eliminar_la_redundancia" data-name="Eliminar la redundancia" transform="translate(393.977 13903)" fill="#12263f" font-size="17" font-family="SegoeUI, Segoe UI"><tspan x="0" y="18">Eliminar la redundancia</tspan></text>
+    <circle id="Elipse_13755" data-name="Elipse 13755" cx="19" cy="19" r="19" transform="translate(341.688 13756)" fill="#19538d"/>
+    <circle id="Elipse_13765" data-name="Elipse 13765" cx="19" cy="19" r="19" transform="translate(341.688 13826)" fill="#19538d"/>
+    <circle id="Elipse_13766" data-name="Elipse 13766" cx="19" cy="19" r="19" transform="translate(341.688 13896)" fill="#19538d"/>
+    <text id="_1-2" data-name="1" transform="translate(353.188 13762)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">1</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(353.188 13832)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">2</tspan></text>
+    <text id="_3-2" data-name="3" transform="translate(353.188 13902)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.611" y="18">3</tspan></text>
+  </g>
+</svg>

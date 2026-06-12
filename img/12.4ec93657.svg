@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="529" viewBox="0 0 1020 529">
+  <g id="Grupo_1212400" data-name="Grupo 1212400" transform="translate(-290 -2571)">
+    <rect id="Rectángulo_465614" data-name="Rectángulo 465614" width="1020" height="529" rx="14" transform="translate(290 2571)" fill="#dfefff"/>
+    <path id="Trazado_1273111" data-name="Trazado 1273111" d="M28.652,0H0V341H31.85" transform="translate(826 2698.404) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1273113" data-name="Trazado 1273113" d="M28.652,0H0V479.988H31.85" transform="translate(1129.488 2646.629) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1273107" data-name="Trazado 1273107" d="M28.652,0H0V486.475H31.85" transform="translate(1042.975 2749.733) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284664" data-name="Trazado 1284664" d="M28.652,0H0V323H31.85" transform="translate(717 2801) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284668" data-name="Trazado 1284668" d="M28.652,0H0V175.5H31.85" transform="translate(637 2886) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284669" data-name="Trazado 1284669" d="M0,7V76H71.85V64.988" transform="translate(470 2971) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284667" data-name="Trazado 1284667" d="M28.652,0H0V323H31.85" transform="translate(1203 2801) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1273112" data-name="Trazado 1273112" d="M0,0V30.733" transform="translate(889.5 2646.629) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1273108" data-name="Trazado 1273108" d="M0,0V61.328" transform="translate(650 2750) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284665" data-name="Trazado 1284665" d="M0,0V104.417" transform="translate(556.5 2886) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284671" data-name="Trazado 1284671" d="M0,0V12.349" transform="translate(394 2996) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284670" data-name="Trazado 1284670" d="M0,0V11.494" transform="translate(461.5 2972.494) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284666" data-name="Trazado 1284666" d="M0,0V30.733" transform="translate(1042.5 2812.316) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_460665" data-name="Rectángulo 460665" width="137" height="31" rx="15.5" transform="translate(411 2709)" fill="#fff"/>
+    <rect id="Rectángulo_466601" data-name="Rectángulo 466601" width="137" height="31" rx="15.5" transform="translate(582 2709)" fill="#12263f"/>
+    <rect id="Rectángulo_466602" data-name="Rectángulo 466602" width="137" height="31" rx="15.5" transform="translate(757 2709)" fill="#b0c0d2"/>
+    <rect id="Rectángulo_460670" data-name="Rectángulo 460670" width="181.408" height="31" rx="15.5" transform="translate(559.296 2657.672)" fill="#ffd470"/>
+    <rect id="Rectángulo_460672" data-name="Rectángulo 460672" width="253" height="31" rx="15.5" transform="translate(763 2606)" fill="#19538d"/>
+    <rect id="Rectángulo_460671" data-name="Rectángulo 460671" width="214.025" height="31" rx="15.5" transform="translate(1022.975 2657.172)" fill="#ffd470"/>
+    <text id="White_Box" data-name="White Box" transform="translate(432 2712)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="6.538" y="18">White Box</tspan></text>
+    <g id="Grupo_1212398" data-name="Grupo 1212398" transform="translate(0 -36)">
+      <rect id="Rectángulo_466603" data-name="Rectángulo 466603" width="137" height="65" rx="16" transform="translate(325 2847)" fill="#9ecfff"/>
+      <text id="Unit_Testing" data-name="Unit Testing" transform="translate(346 2866)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="30.988" y="18">Unit </tspan></text>
+    </g>
+    <g id="Grupo_1212397" data-name="Grupo 1212397" transform="translate(10 -36)">
+      <rect id="Rectángulo_466604" data-name="Rectángulo 466604" width="137" height="65" rx="16" transform="translate(478 2847)" fill="#9ecfff"/>
+      <text id="Integration_Testing" data-name="Integration
+Testing" transform="translate(499 2856)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="3.01" y="18">Integration</tspan><tspan x="19.317" y="42">Testing</tspan></text>
+    </g>
+    <g id="Grupo_1212396" data-name="Grupo 1212396" transform="translate(19 -36)">
+      <rect id="Rectángulo_466605" data-name="Rectángulo 466605" width="137" height="65" rx="16" transform="translate(631 2847)" fill="#9ecfff"/>
+      <text id="System_Testing" data-name="System
+Testing" transform="translate(652 2856)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="19.474" y="18">System</tspan><tspan x="19.317" y="42">Testing</tspan></text>
+    </g>
+    <g id="Grupo_1212399" data-name="Grupo 1212399" transform="translate(-85 49)">
+      <rect id="Rectángulo_466604-2" data-name="Rectángulo 466604" width="137" height="65" rx="16" transform="translate(478 2847)" fill="#19538d"/>
+      <text id="Incremental_Testing" data-name="Incremental
+Testing" transform="translate(499 2856)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0.312" y="18">Incremental</tspan><tspan x="19.317" y="42">Testing</tspan></text>
+    </g>
+    <rect id="Rectángulo_466605-2" data-name="Rectángulo 466605" width="164" height="65" rx="16" transform="translate(555 2896)" fill="#19538d"/>
+    <text id="Non-Incremental_Testing" data-name="Non-Incremental
+Testing" transform="translate(571 2905)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="45.51" y="18">Non-</tspan><tspan x="18.312" y="42">Incremental</tspan></text>
+    <g id="Grupo_1212395" data-name="Grupo 1212395" transform="translate(36 -36)">
+      <rect id="Rectángulo_466606" data-name="Rectángulo 466606" width="137" height="65" rx="16" transform="translate(777 2847)" fill="#9ecfff"/>
+      <text id="Performance_Testing" data-name="Performance
+Testing" transform="translate(794 2856)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0.297" y="18">Performance</tspan><tspan x="22.817" y="42">Testing</tspan></text>
+    </g>
+    <g id="Grupo_1212394" data-name="Grupo 1212394" transform="translate(45 -36)">
+      <rect id="Rectángulo_466607" data-name="Rectángulo 466607" width="137" height="65" rx="16" transform="translate(930 2847)" fill="#9ecfff"/>
+      <text id="Usability_Testing" data-name="Usability
+Testing" transform="translate(951 2856)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="13.141" y="18">Usability</tspan><tspan x="19.317" y="42">Testing</tspan></text>
+    </g>
+    <g id="Grupo_1212393" data-name="Grupo 1212393" transform="translate(0 -36)">
+      <rect id="Rectángulo_466608" data-name="Rectángulo 466608" width="137" height="65" rx="16" transform="translate(1138 2847)" fill="#9ecfff"/>
+      <text id="Compatibility_Testing" data-name="Compatibility
+Testing" transform="translate(1155 2856)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2.403" y="18">Compatibilit</tspan><tspan x="47.426" y="42">y</tspan></text>
+    </g>
+    <text id="Black_Box" data-name="Black Box" transform="translate(603 2712)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="9.215" y="18">Black Box</tspan></text>
+    <text id="Grey_Box" data-name="Grey Box" transform="translate(778 2712)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="11.921" y="18">Grey Box</tspan></text>
+    <text id="Manual_Testing" data-name="Manual Testing" transform="translate(583.689 2660.672)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="4.691" y="18">Manual Testing</tspan></text>
+    <text id="Types_of_Software_Testing" data-name="Types of Software Testing" transform="translate(788 2610)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="29.841" y="18">Types of Software </tspan></text>
+    <text id="Automation_Testing" data-name="Automation Testing" transform="translate(1042.975 2660.172)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="7.472" y="18">Automation Testing</tspan></text>
+    <rect id="Rectángulo_460662" data-name="Rectángulo 460662" width="186" height="31" rx="15.5" transform="translate(464 2760)" fill="#cf9eff"/>
+    <rect id="Rectángulo_466609" data-name="Rectángulo 466609" width="126" height="31" rx="15.5" transform="translate(404 2981)" fill="#7dbfff"/>
+    <rect id="Rectángulo_466610" data-name="Rectángulo 466610" width="126" height="31" rx="15.5" transform="translate(404 3027)" fill="#7dbfff"/>
+    <rect id="Rectángulo_460663" data-name="Rectángulo 460663" width="222" height="31" rx="15.5" transform="translate(934 2760)" fill="#cf9eff"/>
+    <text id="Functional_Testing" data-name="Functional Testing" transform="translate(485 2763)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="30.664" y="18">Functional </tspan></text>
+    <text id="Top-down" transform="translate(425 2984)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="2" y="18">Top-down</tspan></text>
+    <text id="Bottom-up" transform="translate(425 3030)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="8.853" y="18">Bottom-</tspan></text>
+    <text id="Non-Functional_Testing" data-name="Non-Functional Testing" transform="translate(955 2763)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="28.174" y="18">Non-Functional </tspan></text>
+    <path id="Trazado_1284672" data-name="Trazado 1284672" d="M0,7V76H160.85V64.988" transform="translate(889 2889) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284673" data-name="Trazado 1284673" d="M0,0V12.349" transform="translate(813 2911.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284675" data-name="Trazado 1284675" d="M0,0V12.349" transform="translate(813 2957.5) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284676" data-name="Trazado 1284676" d="M0,0V12.349" transform="translate(813 3004) rotate(-90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284674" data-name="Trazado 1284674" d="M0,0V14.494" transform="translate(880.5 2890.494) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_466612" data-name="Rectángulo 466612" width="163" height="31" rx="15.5" transform="translate(824 2896)" fill="#7dbfff"/>
+    <text id="Load_Testing" data-name="Load Testing" transform="translate(835 2900)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="20.677" y="18">Load Testing</tspan></text>
+    <rect id="Rectángulo_466614" data-name="Rectángulo 466614" width="163" height="31" rx="15.5" transform="translate(824 2988)" fill="#7dbfff"/>
+    <rect id="Rectángulo_466615" data-name="Rectángulo 466615" width="163" height="31" rx="15.5" transform="translate(824 3034)" fill="#7dbfff"/>
+    <rect id="Rectángulo_466611" data-name="Rectángulo 466611" width="163" height="31" rx="15.5" transform="translate(824 2942)" fill="#7dbfff"/>
+    <text id="Scalability_Testing" data-name="Scalability Testing" transform="translate(835 2992)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="30.193" y="18">Scalability </tspan></text>
+    <text id="Stability_Testing" data-name="Stability Testing" transform="translate(835 3038)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="7.138" y="18">Stability Testing</tspan></text>
+    <text id="Stress_Testing" data-name="Stress Testing" transform="translate(844 2946)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="7.684" y="18">Stress Testing</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="271" viewBox="0 0 1020 271">
+  <g id="Grupo_1212489" data-name="Grupo 1212489" transform="translate(-290 -10936)">
+    <rect id="Rectángulo_465614" data-name="Rectángulo 465614" width="1020" height="271" rx="14" transform="translate(290 10936)" fill="#dfefff"/>
+    <path id="Trazado_1284773" data-name="Trazado 1284773" d="M28.652,0H0V656.5H31.85" transform="translate(1128.5 11028.629) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <path id="Trazado_1284775" data-name="Trazado 1284775" d="M28.652,0H0V312H31.85" transform="translate(956.5 11114) rotate(90)" fill="none" stroke="#445866" stroke-width="3"/>
+    <rect id="Rectángulo_466752" data-name="Rectángulo 466752" width="261" height="31" rx="15.5" transform="translate(341 11056)" fill="#cf9eff"/>
+    <rect id="Rectángulo_466754" data-name="Rectángulo 466754" width="261" height="31" rx="15.5" transform="translate(998 11056)" fill="#cf9eff"/>
+    <text id="Static_Techniques" data-name="Static Techniques" transform="translate(362 11059)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="41.104" y="18">Static Techniques</tspan></text>
+    <text id="Experiencie" transform="translate(1019 11059)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="64.246" y="18">Experiencie</tspan></text>
+    <path id="Trazado_1284774" data-name="Trazado 1284774" d="M0,0V116.328" transform="translate(800 11114) rotate(180)" fill="none" stroke="#445866" stroke-width="3"/>
+    <g id="Grupo_1212484" data-name="Grupo 1212484" transform="translate(-102 -610)">
+      <rect id="Rectángulo_460672" data-name="Rectángulo 460672" width="279" height="31" rx="15.5" transform="translate(763 11581)" fill="#19538d"/>
+      <text id="Software_Testing_Techniques" data-name="Software Testing Techniques" transform="translate(788 11585)" fill="#fff" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0.701" y="18">Software Testing Techniques</tspan></text>
+    </g>
+    <rect id="Rectángulo_466753" data-name="Rectángulo 466753" width="261" height="31" rx="15.5" transform="translate(670 11056)" fill="#cf9eff"/>
+    <text id="Dynamic_Techniques" data-name="Dynamic Techniques" transform="translate(691 11059)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="28.503" y="18">Dynamic Techniques</tspan></text>
+    <rect id="Rectángulo_466756" data-name="Rectángulo 466756" width="261" height="31" rx="15.5" transform="translate(514 11141)" fill="#7dbfff"/>
+    <rect id="Rectángulo_466757" data-name="Rectángulo 466757" width="261" height="31" rx="15.5" transform="translate(826 11141)" fill="#7dbfff"/>
+    <text id="Black-Box_Testing" data-name="Black-Box Testing" transform="translate(535 11144)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="39.564" y="18">Black-Box Testing</tspan></text>
+    <text id="White-Box_Testing" data-name="White-Box Testing" transform="translate(847 11144)" fill="#12263f" font-size="17" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="36.418" y="18">White-Box Testing</tspan></text>
+  </g>
+</svg>
